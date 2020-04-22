@@ -1,0 +1,2646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ch32-mvc-ssm-code:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5857822b-0742-4e4f-9432-36b44224d40b" name="Default Changelist" comment="代码提交">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-teaching-parent" />
+    <favorites_list name="Unnamed">
+      <favorite_root url="file://$PROJECT_DIR$/ch27-mvc-file/src/main/java/com/controller/HomeController.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="AnnotationType" />
+        <option value="CSS File" />
+        <option value="spring-beans.schema" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="mybatis-mapper" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SGO8FWt9QcLJ7cVzgox1qFT9oj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17234188" />
+    <property name="project.structure.side.proportion" value="0.4402834" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.nf.demo.service.impl" />
+      <recent name="com.nf.demo.dao" />
+      <recent name="com.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="com.nf.demo.advice" />
+      <recent name="com.nf.demo.entity" />
+      <recent name="com.controller" />
+      <recent name="com.advice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch34-mvc-restfull/src/main/java" />
+      <recent name="$PROJECT_DIR$/ch33-mvc-cors/src/main/java" />
+      <recent name="$PROJECT_DIR$/ch32-mvc-ssm-code/src/main/resources/static/js" />
+      <recent name="$PROJECT_DIR$/ch32-mvc-ssm-code/src/main/resources" />
+      <recent name="$PROJECT_DIR$/ch29-ssm-xml-multi-module-parent/demo-service/src/main/resources" />
+    </key>
+    <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="com.vo" />
+      <recent name="com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch30-servlet3/src/main/resources/META-INF/services" />
+      <recent name="$PROJECT_DIR$/ch29-ssm-xml-multi-module-parent/demo-dao/src/main/resources" />
+      <recent name="$PROJECT_DIR$/ch26-mvc-interceptor/src/main/resources/static/css" />
+      <recent name="$PROJECT_DIR$/ch23-mvc-static/src/main/resources/public/js/main" />
+      <recent name="$PROJECT_DIR$/ch23-mvc-static/src/main/resources/static/css" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="$PROJECT_DIR$/../../.." />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="list3" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="list2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package -pl ch21-mvc-validation -am" />
+      <command value="ch32-mvc-ssm-code" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.ch32-mvc-ssm-code">
+    <configuration name="UserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nf.demo.entity.UserInfo" />
+      <module name="ch28-ssm-xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nf.demo.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptServiceImplTest.deleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nf.demo.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nf.demo.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.nf.demo.service.impl.DeptServiceImplTest" />
+      <option name="METHOD_NAME" value="deleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeDaoTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nf.demo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nf.demo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nf.demo.dao.EmployeeDaoTest" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceImplTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nf.demo.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nf.demo.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.nf.demo.service.impl.EmployeeServiceImplTest" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spring-teaching-parent [clean,package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="15880868367542" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ch17-mvc-helloworld" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/ch17-mvc-helloworld/target/ch17-mvc-helloworld-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50150" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="50151" />
+        <option name="visualVMId" value="5756022958743" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch20-receive-data" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/ch20-mvc-receive-data/target/ch20-mvc-receive-data-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61515" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="61516" />
+        <option name="visualVMId" value="15262643447192" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch21-validation" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/ch21-mvc-validation/target/ch21-mvc-validation-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50326" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="50327" />
+        <option name="visualVMId" value="5942048718257" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch22-mvc-view" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch22-mvc-view:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52366" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="52367" />
+        <option name="visualVMId" value="13743711294817" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch23-mvc-static" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch23-mvc-static:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62725" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="62726" />
+        <option name="visualVMId" value="25227173696115" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch24-mvc-json" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="ch24-mvc-json:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_6" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50281" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="50282" />
+        <option name="visualVMId" value="3806436588817" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch25-mvc-exception" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch25-mvc-exception:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_7" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51750" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="51751" />
+        <option name="visualVMId" value="15361660076231" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch26-mvc-interceptor" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch26-mvc-interceptor:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_8" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49350" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="49351" />
+        <option name="visualVMId" value="1053334350433" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch27-mvc-file" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch27-mvc-file:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_9" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50912" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="50913" />
+        <option name="visualVMId" value="11328975293974" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch28-ssm-xml" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch28-ssm-xml:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49898" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="49899" />
+        <option name="visualVMId" value="4212641181408" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch29-ssm-xml-multi" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="demo-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58966" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="58967" />
+        <option name="visualVMId" value="20778540402533" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch30-servlet3" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch30-servlet3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49798" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="49799" />
+        <option name="visualVMId" value="5383988716686" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ch30-servlet3:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="ch31-mvc-code" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch31-mvc-code:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49262" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="49263" />
+        <option name="visualVMId" value="430037420879" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ch31-mvc-code:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="ch32-mvc-ssm-code" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch32-mvc-ssm-code:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50263" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="50264" />
+        <option name="visualVMId" value="3482942521630" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ch32-mvc-ssm-code:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="ch33-mvc-cors" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch33-mvc-cors:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62904" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="62905" />
+        <option name="visualVMId" value="3236298131198" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ch33-mvc-cors:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="ch34-mvc-restful" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ch34-mvc-restfull:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-teaching-parent_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50748" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="50749" />
+        <option name="visualVMId" value="15829434931180" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ch34-mvc-restfull:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.UserInfo" />
+      <item itemvalue="JUnit.EmployeeDaoTest.getAll" />
+      <item itemvalue="JUnit.EmployeeServiceImplTest.getAll" />
+      <item itemvalue="JUnit.DeptServiceImplTest.deleteById" />
+      <item itemvalue="Maven.spring-teaching-parent [clean,package]" />
+      <item itemvalue="Tomcat Server.ch32-mvc-ssm-code" />
+      <item itemvalue="Tomcat Server.ch33-mvc-cors" />
+      <item itemvalue="Tomcat Server.ch34-mvc-restful" />
+      <item itemvalue="Tomcat Server.ch31-mvc-code" />
+      <item itemvalue="Tomcat Server.ch30-servlet3" />
+      <item itemvalue="Tomcat Server.ch29-ssm-xml-multi" />
+      <item itemvalue="Tomcat Server.ch28-ssm-xml" />
+      <item itemvalue="Tomcat Server.ch27-mvc-file" />
+      <item itemvalue="Tomcat Server.ch26-mvc-interceptor" />
+      <item itemvalue="Tomcat Server.ch23-mvc-static" />
+      <item itemvalue="Tomcat Server.ch24-mvc-json" />
+      <item itemvalue="Tomcat Server.ch25-mvc-exception" />
+      <item itemvalue="Tomcat Server.ch22-mvc-view" />
+      <item itemvalue="Tomcat Server.ch21-validation" />
+      <item itemvalue="Tomcat Server.ch20-receive-data" />
+      <item itemvalue="Tomcat Server.ch17-mvc-helloworld" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeServiceImplTest.getAll" />
+        <item itemvalue="JUnit.DeptServiceImplTest.deleteById" />
+        <item itemvalue="JUnit.EmployeeDaoTest.getAll" />
+        <item itemvalue="Application.UserInfo" />
+        <item itemvalue="Maven.spring-teaching-parent [clean,package]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5857822b-0742-4e4f-9432-36b44224d40b" name="Default Changelist" comment="" />
+      <created>1571186304379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571186304379</updated>
+      <workItem from="1571186307918" duration="17897000" />
+      <workItem from="1571272434353" duration="14295000" />
+      <workItem from="1571307005053" duration="58000" />
+      <workItem from="1571308361371" duration="7192000" />
+      <workItem from="1571361215752" duration="8821000" />
+      <workItem from="1571618539484" duration="4869000" />
+      <workItem from="1571629709936" duration="2354000" />
+      <workItem from="1571640126266" duration="11207000" />
+      <workItem from="1571659228945" duration="7616000" />
+      <workItem from="1571703095483" duration="212000" />
+      <workItem from="1571703409735" duration="11456000" />
+      <workItem from="1571729408928" duration="127000" />
+      <workItem from="1571729539219" duration="14315000" />
+      <workItem from="1571790606020" duration="2801000" />
+      <workItem from="1571794308640" duration="10793000" />
+      <workItem from="1571816373750" duration="12503000" />
+      <workItem from="1571836560750" duration="4821000" />
+      <workItem from="1571841445455" duration="9542000" />
+      <workItem from="1571851022570" duration="267000" />
+      <workItem from="1571851293960" duration="681000" />
+      <workItem from="1571877104415" duration="13176000" />
+      <workItem from="1571911532767" duration="14642000" />
+      <workItem from="1571963512637" duration="9911000" />
+      <workItem from="1571986074844" duration="5339000" />
+      <workItem from="1572065397031" duration="3339000" />
+      <workItem from="1572226216982" duration="22406000" />
+      <workItem from="1572308991443" duration="7352000" />
+      <workItem from="1572318004786" duration="15184000" />
+      <workItem from="1572395555054" duration="10675000" />
+      <workItem from="1572420163913" duration="3017000" />
+      <workItem from="1572431771998" duration="7177000" />
+      <workItem from="1572481857911" duration="15013000" />
+      <workItem from="1572830187914" duration="8805000" />
+      <workItem from="1572839996872" duration="5183000" />
+      <workItem from="1572869229695" duration="5290000" />
+      <workItem from="1572914492121" duration="497000" />
+      <workItem from="1572916631795" duration="32220000" />
+      <workItem from="1572999472731" duration="25144000" />
+      <workItem from="1573085900771" duration="4676000" />
+      <workItem from="1573098257865" duration="4768000" />
+      <workItem from="1573120748119" duration="14505000" />
+      <workItem from="1573173033986" duration="10562000" />
+      <workItem from="1573198870471" duration="3356000" />
+      <workItem from="1573264316962" duration="2094000" />
+      <workItem from="1573267016915" duration="3194000" />
+      <workItem from="1573432269090" duration="30736000" />
+      <workItem from="1573519132117" duration="23595000" />
+      <workItem from="1573567268542" duration="3976000" />
+      <workItem from="1573605136963" duration="14096000" />
+      <workItem from="1573631750398" duration="1421000" />
+      <workItem from="1573639754038" duration="7150000" />
+      <workItem from="1573653086402" duration="6744000" />
+      <workItem from="1573660248086" duration="908000" />
+      <workItem from="1573691693780" duration="20677000" />
+      <workItem from="1573734907686" duration="5738000" />
+      <workItem from="1573778291754" duration="9622000" />
+      <workItem from="1573800164148" duration="2549000" />
+      <workItem from="1573825771687" duration="3178000" />
+      <workItem from="1573830096408" duration="1590000" />
+      <workItem from="1573872948367" duration="38000" />
+      <workItem from="1573873012810" duration="6968000" />
+      <workItem from="1574036946474" duration="13208000" />
+      <workItem from="1574071680471" duration="34000" />
+      <workItem from="1574071752430" duration="15148000" />
+      <workItem from="1574123780283" duration="4827000" />
+      <workItem from="1574128989263" duration="20074000" />
+      <workItem from="1574170677150" duration="32000" />
+      <workItem from="1574170748706" duration="33000" />
+      <workItem from="1574209819085" duration="14460000" />
+      <workItem from="1574251697061" duration="1742000" />
+      <workItem from="1574260681070" duration="1985000" />
+      <workItem from="1574263919350" duration="999000" />
+      <workItem from="1574296288431" duration="8049000" />
+      <workItem from="1574305529467" duration="89000" />
+      <workItem from="1574305658395" duration="8688000" />
+      <workItem from="1574333854954" duration="3488000" />
+      <workItem from="1574387253478" duration="4268000" />
+      <workItem from="1574393246351" duration="2107000" />
+      <workItem from="1574395396822" duration="196000" />
+      <workItem from="1574395596095" duration="911000" />
+      <workItem from="1574405551288" duration="1437000" />
+      <workItem from="1574407043767" duration="44000" />
+      <workItem from="1574642621409" duration="1478000" />
+      <workItem from="1574645919848" duration="64000" />
+      <workItem from="1574646218856" duration="4204000" />
+      <workItem from="1574650591328" duration="5606000" />
+      <workItem from="1574680065279" duration="93000" />
+      <workItem from="1574680187333" duration="2516000" />
+      <workItem from="1574683074473" duration="5666000" />
+      <workItem from="1574818910483" duration="3395000" />
+      <workItem from="1575201666375" duration="167000" />
+      <workItem from="1575248839927" duration="3048000" />
+      <workItem from="1575254026288" duration="198000" />
+      <workItem from="1575254252381" duration="381000" />
+      <workItem from="1575256054847" duration="209000" />
+      <workItem from="1575336984557" duration="2331000" />
+      <workItem from="1575341650512" duration="918000" />
+      <workItem from="1575535086028" duration="201000" />
+      <workItem from="1576073134178" duration="137000" />
+      <workItem from="1576075068226" duration="552000" />
+      <workItem from="1576075712434" duration="371000" />
+      <workItem from="1577064555641" duration="7938000" />
+      <workItem from="1577083104297" duration="1550000" />
+      <workItem from="1577147314809" duration="925000" />
+      <workItem from="1577148993343" duration="6160000" />
+      <workItem from="1577233891484" duration="21422000" />
+      <workItem from="1577277735115" duration="1968000" />
+      <workItem from="1577332953245" duration="242000" />
+      <workItem from="1577333414903" duration="13000" />
+      <workItem from="1577342579391" duration="529000" />
+      <workItem from="1577934020090" duration="82000" />
+      <workItem from="1582552719021" duration="102000" />
+      <workItem from="1582685320496" duration="153000" />
+      <workItem from="1582794868009" duration="91000" />
+      <workItem from="1582969124889" duration="142000" />
+      <workItem from="1583237657865" duration="1611000" />
+      <workItem from="1584072914124" duration="187000" />
+      <workItem from="1584081946834" duration="15000" />
+      <workItem from="1584674305987" duration="682000" />
+      <workItem from="1584706379738" duration="11000" />
+      <workItem from="1585015413441" duration="1422000" />
+      <workItem from="1585018285803" duration="1134000" />
+      <workItem from="1585059126958" duration="6000" />
+      <workItem from="1585275898090" duration="1489000" />
+      <workItem from="1585319890518" duration="347000" />
+      <workItem from="1585320245668" duration="983000" />
+      <workItem from="1585321688243" duration="314000" />
+      <workItem from="1585533805151" duration="567000" />
+      <workItem from="1585536078003" duration="177000" />
+      <workItem from="1585537265000" duration="2413000" />
+      <workItem from="1585581108230" duration="607000" />
+      <workItem from="1585620634025" duration="782000" />
+      <workItem from="1587525051012" duration="271000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1574824428985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574824428985</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交,准备提交到远程仓库">
+      <created>1574824570103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574824570103</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成spring spring mvc">
+      <created>1577277763951</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577277763951</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成spring spring mvc">
+      <created>1577278012433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577278012433</updated>
+    </task>
+    <task id="LOCAL-00005" summary="完成spring spring mvc">
+      <created>1577278592632</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577278592632</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成spring spring mvc">
+      <created>1577279392101</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577279392101</updated>
+    </task>
+    <task id="LOCAL-00007" summary="完成spring spring mvc">
+      <created>1577279432663</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577279432663</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="第一次提交,准备提交到远程仓库" />
+    <MESSAGE value="完成spring spring mvc" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成spring spring mvc" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="840" y="-1039" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
+    <state x="-151" y="-685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state x="104" y="-685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state x="840" y="-1039" key="#com.intellij.execution.impl.EditConfigurationsDialog/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state x="1539" y="-964" width="807" height="606" key="#com.intellij.ide.util.MemberChooser" />
+    <state x="198" y="-636" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state x="680" y="-964" width="807" height="606" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state x="453" y="-636" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state x="1539" y="-964" key="#com.intellij.ide.util.MemberChooser/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state x="269" y="143" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" />
+    <state x="269" y="143" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.877@0.23.1440.877" />
+    <state x="1600" y="-792" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" />
+    <state x="1600" y="-792" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state x="1393" y="-955" key="CommitChangelistDialog2" />
+    <state x="1393" y="-955" key="CommitChangelistDialog2/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.0.bottom" />
+    <state width="874" height="160" key="GridCell.Tab.0.bottom/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="262" key="GridCell.Tab.0.bottom/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="1878" height="191" key="GridCell.Tab.0.bottom/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.0.bottom/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.0.center" />
+    <state width="874" height="160" key="GridCell.Tab.0.center/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="262" key="GridCell.Tab.0.center/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="1878" height="191" key="GridCell.Tab.0.center/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.0.center/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.0.left" />
+    <state width="874" height="160" key="GridCell.Tab.0.left/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="262" key="GridCell.Tab.0.left/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="1878" height="191" key="GridCell.Tab.0.left/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.0.left/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.0.right" />
+    <state width="874" height="160" key="GridCell.Tab.0.right/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="262" key="GridCell.Tab.0.right/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="1878" height="191" key="GridCell.Tab.0.right/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.0.right/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.1.bottom" />
+    <state width="874" height="160" key="GridCell.Tab.1.bottom/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="266" key="GridCell.Tab.1.bottom/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="297" key="GridCell.Tab.1.bottom/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.1.bottom/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.1.center" />
+    <state width="874" height="160" key="GridCell.Tab.1.center/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="266" key="GridCell.Tab.1.center/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="297" key="GridCell.Tab.1.center/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.1.center/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.1.left" />
+    <state width="874" height="160" key="GridCell.Tab.1.left/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="266" key="GridCell.Tab.1.left/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="297" key="GridCell.Tab.1.left/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.1.left/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.1.right" />
+    <state width="874" height="160" key="GridCell.Tab.1.right/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="266" key="GridCell.Tab.1.right/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="297" key="GridCell.Tab.1.right/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.1.right/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.2.bottom" />
+    <state width="874" height="160" key="GridCell.Tab.2.bottom/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="262" key="GridCell.Tab.2.bottom/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="297" key="GridCell.Tab.2.bottom/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.2.bottom/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.2.center" />
+    <state width="874" height="160" key="GridCell.Tab.2.center/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="262" key="GridCell.Tab.2.center/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="297" key="GridCell.Tab.2.center/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.2.center/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.2.left" />
+    <state width="874" height="160" key="GridCell.Tab.2.left/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="262" key="GridCell.Tab.2.left/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="297" key="GridCell.Tab.2.left/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.2.left/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.2.right" />
+    <state width="874" height="160" key="GridCell.Tab.2.right/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1403" height="262" key="GridCell.Tab.2.right/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="297" key="GridCell.Tab.2.right/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.2.right/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.3.bottom" />
+    <state width="1403" height="262" key="GridCell.Tab.3.bottom/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="266" key="GridCell.Tab.3.bottom/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.3.bottom/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.3.center" />
+    <state width="1403" height="262" key="GridCell.Tab.3.center/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="266" key="GridCell.Tab.3.center/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.3.center/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.3.left" />
+    <state width="1403" height="262" key="GridCell.Tab.3.left/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="266" key="GridCell.Tab.3.left/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.3.left/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1889" height="307" key="GridCell.Tab.3.right" />
+    <state width="1403" height="262" key="GridCell.Tab.3.right/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state width="917" height="266" key="GridCell.Tab.3.right/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state width="1889" height="307" key="GridCell.Tab.3.right/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state x="308" y="203" key="IDE.errors.dialog" />
+    <state x="308" y="203" key="IDE.errors.dialog/0.23.1440.877@0.23.1440.877" />
+    <state x="243" y="-867" key="Maven.ArtifactSearchDialog" />
+    <state x="243" y="-867" key="Maven.ArtifactSearchDialog/0.23.1440.877/-255.-1057.1920.1057@-255.-1057.1920.1057" />
+    <state x="197" y="-697" key="SettingsEditor" />
+    <state x="40" y="-964" key="SettingsEditor/0.23.1440.877/-255.-1057.1920.1057@-255.-1057.1920.1057" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-255.-1057.1920.1057@0.23.1440.877" />
+    <state x="197" y="-697" key="SettingsEditor/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" />
+    <state x="221" y="100" key="SettingsEditor/632.-1057.2560.1057/0.23.1440.877@0.23.1440.877" />
+    <state x="370" y="-610" width="543" height="524" key="StructurePopup" />
+    <state x="370" y="-610" width="543" height="524" key="StructurePopup/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state x="1512" y="-787" key="Vcs.Push.Dialog.v2" />
+    <state x="1512" y="-787" key="Vcs.Push.Dialog.v2/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state width="1284" height="540" key="javadoc.popup.new" />
+    <state width="642" height="356" key="javadoc.popup.new/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state width="1284" height="540" key="javadoc.popup.new/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+    <state x="66" y="-659" key="new project wizard" />
+    <state x="-180" y="-647" key="new project wizard/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state x="66" y="-659" key="new project wizard/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state x="1316" y="-828" width="1340" height="816" key="search.everywhere.popup" />
+    <state x="87" y="-546" width="670" height="538" key="search.everywhere.popup/0.23.1440.877/-255.-697.1280.697@-255.-697.1280.697" />
+    <state x="513" y="-828" width="1005" height="816" key="search.everywhere.popup/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" />
+    <state x="342" y="-546" width="670" height="538" key="search.everywhere.popup/0.23.1440.877/0.-697.1280.697@0.-697.1280.697" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" />
+    <state x="1316" y="-828" width="1340" height="816" key="search.everywhere.popup/632.-1057.2560.1057/0.23.1440.877@632.-1057.2560.1057" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch01-spring-container/src/main/java/hello/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE-sources.jar!/org/springframework/core/io/support/PathMatchingResourcePatternResolver.java</url>
+          <line>282</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch07-spring-mybatis-druid-good/src/main/java/com/test/SpringResourceTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch07-spring-mybatis-druid-good/src/main/java/com/test/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-spring-impl/src/main/java/com/cj/mybatis/spring/xml/SimpleClassPathMapperScanner.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-spring-impl/src/main/java/com/cj/mybatis/spring/xml/SimpleClassPathMapperScanner.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-spring-impl-usage/src/main/java/com/annotation/config/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-spring-impl/src/main/java/com/cj/mybatis/spring/annotation/SimpleMapperScannerRegistrar.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-spring-impl/src/main/java/com/cj/mybatis/spring/annotation/SimpleMapperScannerRegistrar.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java</url>
+          <line>344</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.2.0.RELEASE/spring-tx-5.2.0.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java</url>
+          <line>344</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.2/mybatis-spring-2.0.2-sources.jar!/org/mybatis/spring/SqlSessionUtils.java</url>
+          <line>303</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.2/mybatis-spring-2.0.2-sources.jar!/org/mybatis/spring/SqlSessionUtils.java</url>
+          <line>279</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.2/mybatis-spring-2.0.2-sources.jar!/org/mybatis/spring/SqlSessionUtils.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring-tx-impl/src/main/java/com/service/impl/DeptServiceImpl.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.java</url>
+          <line>293</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java</url>
+          <line>267</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE-sources.jar!/org/springframework/web/bind/support/DefaultDataBinderFactory.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch20-mvc-receive-data/src/main/java/com/controller/Date1FormatterController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch20-mvc-receive-data/src/main/java/com/controller/Date2FormatterController.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE-sources.jar!/org/springframework/web/bind/support/ConfigurableWebBindingInitializer.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE-sources.jar!/org/springframework/web/bind/support/WebBindingInitializer.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/passdatatoview/LoadViewWithDataController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/passdatatoview/LoadViewWithDataController.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/passdatatoview/RedirectPassController.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/passdatatoview/RedirectPassController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/passdatatoview/RedirectPassController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/passdatatoview/RedirectPassController.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/passdatatoview/RedirectPassController.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/view/DisplayViewController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/jump/JumpController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/modelattribute/ModelAttributeController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/modelattribute/ModelAttributeController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ch22-mvc-view/src/main/java/com/controller/modelattribute/ModelAttributeController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java</url>
+          <line>252</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
+          <line>1039</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java</url>
+          <line>887</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE-sources.jar!/org/springframework/web/method/annotation/AbstractNamedValueMethodArgumentResolver.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE-sources.jar!/org/springframework/web/filter/FormContentFilter.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch34-mvc-restfull/src/main/java/com/test/PutServletTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE-sources.jar!/org/springframework/web/servlet/support/AbstractDispatcherServletInitializer.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/ch12-spring-tx-mybatis/src/main/java/com/dao/EmployeeDao.java</url>
+          <line>7</line>
+          <properties class="com.dao.EmployeeDao" method="delete" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="TransactionSynchronizationManager" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
